@@ -27,11 +27,16 @@ The outcomes of this project included not only the development of a predictive m
 
 Link: (Link to the Project folder or file)
 
-### Project 2
+### Project 2: Breast Cancer Classification using cnn,efficientNet & resnet
 
-(Short description of the project, the techniques used, the problem solved, and the outcome)
+In this project, Convolutional Neural Networks (CNNs) were constructed both from scratch and using pre-defined architectures, namely the EfficientNet and ResNet families. This approach demonstrates the capacity to create custom machine learning solutions and adapt established architectures for specific tasks.
+
+The process also involved extensive hyperparameter tuning. This step indicates proficiency in refining and optimizing machine learning models to enhance their performance and increase accuracy.
+
+The project concluded with an in-depth evaluation of the fine-tuned model, emphasizing the role of hyperparameters in model performance and the efficacy of deep learning in handling critical classification tasks.
 
 Link: (Link to the Project folder or file)
+
 
 ### Project 3
 
