@@ -1,5 +1,3 @@
-Sure, I'd be happy to help you with that. Here's a basic structure for your README.md file:
-
 ---
 
 # Machine Learning Projects Portfolio 
