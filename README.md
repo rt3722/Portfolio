@@ -11,8 +11,8 @@ This repository consists of a collection of different Machine Learning projects 
 ## Table of Contents
 
 ### Project 1: Intel Image Classification Using Deep Learning
+### Project 2: Breast Cancer Classification
 
-- Project 2: Project Name and Short Description
 - Project 3: Project Name and Short Description
 
 ## Projects
