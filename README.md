@@ -10,7 +10,7 @@ This repository consists of a collection of different Machine Learning projects 
 
 ## Table of Contents
 
-Project 1: Intel Image Classification using Deep Learning
+Project 1: Intel Image Classification using Deep Learning \n
 This project is based on the Intel Image Classification dataset, which contains a total of 17k images of natural scenes from around the world, including both natural landscapes and buildings. The dataset has been split into 14k images for training and 3k for testing, with each image sized at 150x150 pixels.
 
 The main challenge tackled in this project was to correctly classify these images into one of six classes: "buildings", "forest", "glacier", "mountain", "sea", and "street". To solve this multi-class classification problem, I utilized deep learning techniques such as Convolutional Neural Networks (CNNs). This allowed for robust and effective learning from the complex, high-dimensional data present in the images.
