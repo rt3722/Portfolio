@@ -17,7 +17,7 @@ This repository consists of a collection of different Machine Learning projects 
 
 ## Projects
 
-### Project 1
+### Intel Image Classification Using Deep Learning
 
 This project is based on the Intel Image Classification dataset, which contains a total of 17k images of natural scenes from around the world, including both natural landscapes and buildings. The dataset has been split into 14k images for training and 3k for testing, with each image sized at 150x150 pixels. 
 
