@@ -12,14 +12,6 @@ This repository consists of a collection of different Machine Learning projects 
 
 ### Project 1: Intel Image Classification Using Deep Learning
 
-This project is based on the Intel Image Classification dataset, which contains a total of 17k images of natural scenes from around the world, including both natural landscapes and buildings. The dataset has been split into 14k images for training and 3k for testing, with each image sized at 150x150 pixels. 
-
-The main challenge tackled in this project was to correctly classify these images into one of six classes: "buildings", "forest", "glacier", "mountain", "sea", and "street". To solve this multi-class classification problem, I utilized deep learning techniques such as Convolutional Neural Networks (CNNs). This allowed for robust and effective learning from the complex, high-dimensional data present in the images. 
-
-The outcomes of this project included not only the development of a predictive model with high accuracy, but also an in-depth exploration of various deep learning techniques and their application to real-world image classification tasks.
-
-Link: (Link to the Project folder or file)
-
 - Project 2: Project Name and Short Description
 - Project 3: Project Name and Short Description
 
@@ -27,7 +19,11 @@ Link: (Link to the Project folder or file)
 
 ### Project 1
 
-(Short description of the project, the techniques used, the problem solved, and the outcome)
+This project is based on the Intel Image Classification dataset, which contains a total of 17k images of natural scenes from around the world, including both natural landscapes and buildings. The dataset has been split into 14k images for training and 3k for testing, with each image sized at 150x150 pixels. 
+
+The main challenge tackled in this project was to correctly classify these images into one of six classes: "buildings", "forest", "glacier", "mountain", "sea", and "street". To solve this multi-class classification problem, I utilized deep learning techniques such as Convolutional Neural Networks (CNNs). This allowed for robust and effective learning from the complex, high-dimensional data present in the images. 
+
+The outcomes of this project included not only the development of a predictive model with high accuracy, but also an in-depth exploration of various deep learning techniques and their application to real-world image classification tasks.
 
 Link: (Link to the Project folder or file)
 
